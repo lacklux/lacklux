@@ -1,3 +1,5 @@
+/header.png
+
 ### Hi there 👋
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Data analytics,AI,ML
