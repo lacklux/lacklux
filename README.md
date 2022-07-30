@@ -9,4 +9,4 @@
 - ⚡ Fun fact: am young and a passionate programmer, i tend to learn always.
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,bots,django,flask,css,dart,git,github,flutter,linux,md,mysql,selenium,tensorflow,vscdoe,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,bots,selenium,django,flask,css,git,github,linux,md,mysql,tensorflow,vscode&theme=light)](https://skillicons.dev)
