@@ -1,6 +1,5 @@
-/header.png
+<img src="https://github.com/lacklux/lacklux/blob/main/header.png">
 
-### Hi there 👋
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Data analytics,AI,ML
 - 👯 I’m looking to collaborate on a data analysis related task
