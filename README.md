@@ -7,3 +7,6 @@
 - 💬 Ask me about anything related to javascript/python
 - 📫 How to reach me: lacklux35@gmail.com
 - ⚡ Fun fact: am young and a passionate programmer, i tend to learn always.
+
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,bots,django,flask,css,dart,git,github,flutter,linux,md,mysql,selenium,tensorflow,vscdoe,figma&theme=light)](https://skillicons.dev)
