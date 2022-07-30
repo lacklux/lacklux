@@ -1,4 +1,4 @@
-
+<img src="https://github.com/lacklux/lacklux/blob/main/header.png">
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Data analytics,AI,ML
